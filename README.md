@@ -3,7 +3,7 @@
 
 ## Education
 - Biostatistics, M.S. | American University (_May 2022_)
-- Food Science, B.S. | University of Maryland, College Park (_May 2018_)
+- Food Science, B.S. | University of Maryland (_May 2018_)
   
 ## Data Science Projects
 #### Research Assistant for [Algorithms for Threat Detection](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd) Project
@@ -19,6 +19,6 @@
 - Developed ordinal logistic regression model with mobile platform user data which identified improvement oppotunities on promoting/detracting features that contributed to 25% increase on user popularity
   
 **Data Analyst @ Centurion Health (_Jan 2020 - Jan 2022_)**
--Developed automated data pineline in SAS to collect, clean and store millions of patients claim and prescription data, which reduced data mining turn around time by 50%
+- Developed automated data pineline in SAS to collect, clean and store millions of patients claim and prescription data, which reduced data mining turn around time by 50%
   
 
