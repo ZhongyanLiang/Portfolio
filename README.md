@@ -20,5 +20,6 @@
   
 **Data Analyst @ Centurion Health (_Jan 2020 - Jan 2022_)**
 - Developed automated data pineline in SAS to collect, clean and store millions of patients claim and prescription data, which reduced data mining turn around time by 50%
+- Developed linear regression model to predict prescription demand by evaluating patient and prescriber prescription patterns, which helped avoid prescription supply insufficiency across facilities
   
 
