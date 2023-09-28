@@ -10,7 +10,7 @@
 -	Used Markov Random Field to build logistic regression models from 911 call data during 2015 Baltimore riots
 -	Applied pseudo-likelihood estimation to maximize essential parameters to detect change-point 
 -	Predicted possibility of large-scale violence through detection of change-points in Markov Chains
-![Markov Chain](/assets/Markov Chain.jpg)
+![Markov Chain](/assets/markov-chain.jpg)
 
 
 ## Work Experience
