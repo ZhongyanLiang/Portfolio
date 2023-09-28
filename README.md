@@ -6,7 +6,7 @@
 - Food Science, B.S. | University of Maryland, College Park (_May 2018_)
   
 ## Data Science Projects
-### [Algorithms for Threat Detection](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd)
+#### [Algorithms for Threat Detection](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd)
 
 ## Work Experience
 **Senior Business Analyst @ Capital One (_Feb 2022 - Present_)**
