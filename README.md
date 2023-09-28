@@ -18,7 +18,7 @@
 - Delivers high value data, analysis, & reporting solutions to support company's flagship digital servicing platform, which is used by over 40 million monthly active users and supported by over 500 internal software engineers
 - Developed ordinal logistic regression model with mobile platform user data which identified improvement oppotunities on promoting/detracting features that contributed to 25% increase on user popularity
   
-**Data Analyst @ Centurion Health (_Jan 2020 - Jan 2022_)
+**Data Analyst @ Centurion Health (_Jan 2020 - Jan 2022_)**
 -Developed automated data pineline in SAS to collect, clean and store millions of patients claim and prescription data, which reduced data mining turn around time by 50%
   
 
