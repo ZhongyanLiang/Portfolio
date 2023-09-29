@@ -6,7 +6,7 @@
 - Food Science, B.S. | University of Maryland (_May 2018_)
   
 ## Data Science Projects
-#### Research Assistant for [Algorithms for Threat Detection](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd) Project
+#### Research Assistant for <a href="https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd">Algorithms for Threat Detection</a> Project
 -	Used Markov Random Field to build logistic regression models from 911 call data during 2015 Baltimore riots
 -	Applied pseudo-likelihood estimation to maximize essential parameters to detect change-point 
 -	Predicted possibility of large-scale violence through detection of change-points in Markov Chains
