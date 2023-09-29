@@ -12,7 +12,7 @@
 -	Predicted possibility of large-scale violence through detection of change-points in Markov Chains
 ![Markov Chain](/assets/markov-chain2.jpg)
 
-#### [Machine Learning Project]() with Multinomial Logistic Regression Model
+#### [Machine Learning Project](https://github.com/ZhongyanLiang/ML-Project-with-Multinomial-Logistic-Regression-Model/blob/main/README.md) with Multinomial Logistic Regression Model
 - Built multinomial logistic regression model to assess wine quality (rank from 1-10) with variables such as residual sugar, alcohol, and density etc.
 - Conducted tests such as VIF, Stepwise Variables Selection, Linear and Quadratic Discriminant analysis, KNN, and Random Forest to cross-validate and further optimize the model
 
