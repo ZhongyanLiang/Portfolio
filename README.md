@@ -13,7 +13,7 @@
 ![Markov Chain](/assets/markov-chain2.jpg)
 
 #### Machine Learning Project with Multinomial Logistic Regression Model
-- Built multinomial logistic regression model to assess wine quality (rank from 1-10) with variables such as PH level,
+- Built multinomial logistic regression model to assess wine quality (rank from 1-10) with variables such as residual sugar, alcohol, and density etc.
 - Conducted tests such as VIF, Stepwise Variables Selection, Linear and Quadratic Discriminant analysis, KNN, and Random Forest to cross-validate and further optimize the model
 
 
