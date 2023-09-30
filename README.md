@@ -17,6 +17,9 @@
 - Conducted tests such as VIF, Stepwise Variables Selection, Linear and Quadratic Discriminant analysis, KNN, and Random Forest to cross-validate and further optimize the model
 <img src=/assets/Wine_Quality.jpg width="430" height="220">
 
+#### [Machine Learning | Credit Card Fraud Detection]() with random forest model
+- Built a Random Forest model to quickly detect anomaly and classify fraudulent transaction
+
 ## Work Experience
 **Senior Business Analyst @ Capital One (_Feb 2022 - Present_)**
 - Delivers high value data, analysis, & reporting solutions to support company's flagship digital servicing platform, which is used by over 40 million monthly active users and supported by over 500 internal software engineers
