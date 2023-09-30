@@ -15,10 +15,12 @@
 #### [Machine Learning Project](https://github.com/ZhongyanLiang/ML-Project-with-Multinomial-Logistic-Regression-Model/blob/main/README.md) with Multinomial Logistic Regression Model
 - Built multinomial logistic regression model to assess wine quality (rank from 1-10) with variables such as residual sugar, alcohol, and density etc.
 - Conducted tests such as VIF, Stepwise Variables Selection, Linear and Quadratic Discriminant analysis, KNN, and Random Forest to cross-validate and further optimize the model
+  
 <img src=/assets/Wine_Quality.jpg width="430" height="220">
 
 #### [Machine Learning | Credit Card Fraud Detection]() with random forest model
 - Built a Random Forest model to quickly detect anomaly and classify fraudulent transaction
+- AUPRC was utilized to measure model accuracy because of unbalanced data
 
 ## Work Experience
 **Senior Business Analyst @ Capital One (_Feb 2022 - Present_)**
