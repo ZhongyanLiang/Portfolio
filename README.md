@@ -23,7 +23,7 @@
 - AUPRC was utilized to measure model accuracy because of unbalanced data
 
 ## Work Experience
-**Senior Business Analyst @ Capital One (_Feb 2022 - Present_)**
+**Senior Business Analyst @ Capital One (_Feb 2022 - Oct 2023_)**
 - Delivers high value data, analysis, & reporting solutions to support company's flagship digital servicing platform, which is used by over 40 million monthly active users and supported by over 500 internal software engineers
 - Developed ordinal logistic regression model with mobile platform user data which identified improvement oppotunities on promoting/detracting features that contributed to 25% increase on user popularity
   
