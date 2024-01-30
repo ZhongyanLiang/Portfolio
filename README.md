@@ -19,7 +19,9 @@
   
 **Data Analyst @ Centurion Health (_Jan 2020 - Jan 2022_)**
 - Developed automated data pineline in SAS to collect, clean and store millions of patients claim and prescription data, which reduced data mining turn around time by 50%
+  
 ## Data Science Projects
+
 #### Research Assistant for <a href="https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd">Algorithms for Threat Detection</a> Project
 -	Used Markov Random Field to build logistic regression models from 911 call data during 2015 Baltimore riots
 -	Applied pseudo-likelihood estimation to maximize essential parameters to detect change-point 
