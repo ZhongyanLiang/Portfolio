@@ -35,6 +35,7 @@
 #### [Machine Learning | Credit Card Fraud Detection]() with random forest model
 - Built a Random Forest model to quickly detect anomaly and classify fraudulent transaction
 - AUPRC was utilized to measure model accuracy because of unbalanced data
+  
 ## Education
 - Biostatistics, M.S. | American University (_May 2022_)
 - Food Science, B.S. | University of Maryland (_May 2018_)
