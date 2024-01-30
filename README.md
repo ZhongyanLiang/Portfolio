@@ -1,8 +1,8 @@
 # Portfolio
 #### Technical Skills: Python, SQL, AWS, Snowflake, JavaScript, HTML5, CSS, Sass, React, Node.js, Express, Redux, TailwindCSS, Vite, Docker, Kubernetes,  MongoDB (NoSQL), PostgreSQL, Git, Webpack, Github Actions, CI/CD, Microservice, SAS(SAS Advance Certified), R, Tableau, Quicksight
 
-## Open Source Project 
-**Chronos - Open Source Developer Tool (_Aug. 2023 - Current_)**
+## Experience
+**[Chronos](https://chronoslany.com/) - Open Source Developer Tool (_Aug. 2023 - Current_)**
 - Developed a microservices-based application architecture using TypeScript, enabling independent scaling of each service with static typing for faster error detection during development and enhanced tooling for better maintainability post development
 - Conducted Test-Driven Development in Supertest with its specialized design in HTTP assertions enabling seamless testing of API endpoints and supporting integration testing between microservices
 - Containerized each microservice application with Docker, providing portability, consistency, and scalability for seamless deployment in diverse environments with 30% faster runtime
@@ -11,7 +11,6 @@
 - Configure Prometheus to scrape metrics from containerized application and visualize container health in Grafana dashboard
 - Achieved faster development using Vite with hot module replacement server and on-demand loading to reduce bundle size
 
-## Work Experience
 **Senior Business Analyst @ Capital One (_Feb 2022 - Oct 2023_)**
 - Delivers high value data, analysis, & reporting solutions to support company's flagship digital servicing platform, which is used by over 40 million monthly active users and supported by over 500 internal software engineers
 - Wrote complex SQL queries in Snowflake and Python scripts in Databricks to automatically extract, transform and load (ETL) datasets from AWS S3 data warehouse into a easily accessible format for analysis across over 100+ analysts among the enterprise
