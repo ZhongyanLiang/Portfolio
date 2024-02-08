@@ -2,7 +2,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, JavaScript, HTML5, CSS, Sass, React, Node.js, Express, Redux, TailwindCSS, Vite, Docker, Kubernetes,  MongoDB (NoSQL), PostgreSQL, Git, Webpack, Github Actions, CI/CD, Microservice, SAS(SAS Advance Certified), R, Tableau, Quicksight
 
 ## Experience
-**[Chronos](https://chronoslany.com/) - Open Source Developer Tool (_Aug. 2023 - Current_)**
+**[Chronos](https://chronoslany.com/) - Open Source Developer Tool (_Oct. 2023 - Current_)**
 - Developed a microservices-based application architecture using TypeScript, enabling independent scaling of each service with static typing for faster error detection during development and enhanced tooling for better maintainability post development
 - Conducted Test-Driven Development in Supertest with its specialized design in HTTP assertions enabling seamless testing of API endpoints and supporting integration testing between microservices
 - Containerized each microservice application with Docker, providing portability, consistency, and scalability for seamless deployment in diverse environments with 30% faster runtime
